@@ -18,7 +18,7 @@ header nav {
 nav ul {
   padding: 0;
   margin-top: 40px;
-  margin: TOP RIGHT BOTTOM LEFT;
+  margin: RIGHT BOTTOM LEFT;
 }
 
 header nav ul li {
